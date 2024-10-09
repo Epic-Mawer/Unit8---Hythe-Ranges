@@ -1,3 +1,5 @@
+# this change is amazming wow
+
 # Define the main characters and images
 define p = Character("Protagonist", color="#FFFFFF")
 define c = Character("Captain Mason", color="#87CEEB")
